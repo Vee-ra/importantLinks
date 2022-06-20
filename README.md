@@ -7,3 +7,4 @@ sqlplus / as sysdba;
 CREATE USER SIT_SERVICING IDENTIFIED BY SIT_SERVICING;
 Grant IMP_FULL_Database to SIT_SERVICING;
 GRANT ALL PRIVILEGES TO SIT_SERVICING;
+https://grow.google/intl/en_in/certificates/ - Google certificates
