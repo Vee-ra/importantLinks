@@ -1,4 +1,8 @@
 # importantLinks
+
+You can open a GitHub repository in VS Code for the Web directly from a URL, following the schema: https://vscode.dev/github/<organization>/<repo> . Using the VS Code repository as an example, this would look like: https://vscode.dev/github/microsoft/vscode .
+Ex: https://vscode.dev/github.com/Vee-ra/importantLinks/edit/main/README.md
+
 https://stackoverflow.com/questions/46407230/load-spring-boot-app-properties-from-database
 Introduction to Java Software Course | DevelopIntelligence - copy paste to URL
 
