@@ -6,6 +6,8 @@ Ex: https://vscode.dev/github.com/Vee-ra/importantLinks/edit/main/README.md
 https://stackoverflow.com/questions/46407230/load-spring-boot-app-properties-from-database
 Introduction to Java Software Course | DevelopIntelligence - copy paste to URL
 
+#Oracle
+https://livesql.oracle.com/apex/f?p=590:1000
 SQL USER CREATION:
 sqlplus / as sysdba;
 CREATE USER SIT_SERVICING IDENTIFIED BY SIT_SERVICING;
